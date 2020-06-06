@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootForumApplication<SpringBootForum>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.qingwenwei.SpringBootForumApplication",
+            "projectName": "SpringBootForum",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootForumApplication<SpringBootForum>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.files.SpringBootForumApplication",
+            "projectName": "SpringBootForum",
+            "args": ""
+        }
+    ]
+}
